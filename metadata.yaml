@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/59
     wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
 description: Translation of first part of "Old Mortality."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43458#I-Puritani-di-Scozia-vol.-1
 gutenberg_bookshelf: IT Romanzi storici
 gutenberg_issued: '2013-08-13'
 gutenberg_type: Text
